@@ -15,7 +15,7 @@ UGC C      CGC R      AGC S      GGC G
 UGA Stop   CGA R      AGA R      GGA G
 UGG W      CGG R      AGG R      GGG G"""
 
-coded = "AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA"
+coded = input().strip()
 decoded = ''
 
 string =  string.split()

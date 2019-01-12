@@ -1,9 +1,9 @@
 f = open("rosalind_hamm.txt")
 
-a = f.readline()
+s1 = f.readline()
 
-b = f.readline()
+s2 = f.readline()
 
 f.close()
 
-print [a!=b for (a, b) in zip(s1, s2)].count(True)
+print([a!=b for (a, b) in zip(s1, s2)].count(True))
