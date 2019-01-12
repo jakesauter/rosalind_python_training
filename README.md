@@ -10,7 +10,7 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 
 **Rabbits and Reccurrence Relations** -- [reccurrence_relations.py](reccurrence_relations.py)
 
-**Computing GC Content** -- [gc_content_2.py](gc_content_2.py`) -- features use of the **split** and **join** commands
+**Computing GC Content** -- [gc_content_2.py](gc_content_2.py) -- features use of the **split** and **join** commands
 
 **Counting Point Mutations** -- [hamming_distance_2.py](hamming_distance_2.py) -- makes use of the **zip** and **count** commands
 
