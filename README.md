@@ -2,7 +2,8 @@
 
 Using the rosalind.info site for bioinformatic programming to sharpen my python and mathematical skills
 
-__[**Counting DNA Nucleotides**](http://rosalind.info/problems/dna/)__ -- [counting_dna_2.py](files/counting_dna_2.py)
+[**Counting DNA Nucleotides**](http://rosalind.info/problems/dna/)__  [counting_dna_2.py](files/counting_dna_2.py)
+===============================
 
 [**Transcribing DNA into RNA**](http://rosalind.info/problems/rna/) -- [transcribing.py](files/transcribing.py)
 
