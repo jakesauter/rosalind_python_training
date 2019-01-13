@@ -1,6 +1,6 @@
 # rosalind_python_training
 
-<u>underline</u>
+<p style="text-decoration:underline;">This text has been underlined</p>
 
 Using the rosalind.info site for bioinformatic programming to sharpen my python and mathematical skills
 
