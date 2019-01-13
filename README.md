@@ -1,11 +1,5 @@
 # rosalind_python_training
 
-
-
-<p style="text-decoration: underline;">This will be underlined.</p>
-
-
-
 Using the rosalind.info site for bioinformatic programming to sharpen my python and mathematical skills
 
 [**Counting DNA Nucleotides**](http://rosalind.info/problems/dna/) -- [counting_dna_2.py](files/counting_dna_2.py)
