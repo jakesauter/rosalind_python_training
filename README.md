@@ -1,6 +1,6 @@
 # rosalind_python_training
 
-Using the rosalind.info site for bioinformatic programming to sharpen my python and mathematical skills
+Using the rosalind.info site for bioinformatic programming to sharpen my python and mathematical skills. The link for each problem will bring you to the problem prompt on the rosalind.info site, and the link for each solution will bring you to my solution in this repository.
 
 [**Counting DNA Nucleotides**](http://rosalind.info/problems/dna/) -- [counting_dna_2.py](files/counting_dna_2.py)
 
