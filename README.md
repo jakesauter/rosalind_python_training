@@ -2,7 +2,7 @@
 
 
 
-<span style="text-decoration: underline;">This will be underlined.</span>
+<p style="text-decoration: underline;">This will be underlined.</p>
 
 
 
