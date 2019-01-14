@@ -25,3 +25,5 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
                                                                   optional offset argument **str.find(string,offset)**
                           [dna_motifs_3.py](files/dna_motifs_3.py) -- very simple, pythonic and readble, makes use of the 
                                                                       **str.startswith(string)** function
+                                                                      
+[**Consensus and Profile**](http://rosalind.info/problems/cons/) -- [consensus_and_profile.txt](files/consensus_and_profile.txt) -- Was reminded that strings can be accessed as arrays in this one.                                                                  
