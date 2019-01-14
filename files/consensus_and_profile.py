@@ -1,6 +1,5 @@
 raw = open("input.txt").read()
 
-
 """
 First we will form a 2d array of all of the provided 
 sequences
@@ -9,9 +8,6 @@ sequences
 sequences = []
 
 raw = [x.strip() for x in raw.split(">")][1:]
-
-
-
 
 for block in raw:
 
@@ -36,9 +32,7 @@ bases = "ACGT"
 for base in range(4):
     for col in range(ncols):
         profile[base][col] = [x[col] for x in sequences].count(bases[base])
-        
-
-    
+            
 """
 Now we can finally generate the consensus
 """
