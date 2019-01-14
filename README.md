@@ -26,4 +26,4 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
                           [dna_motifs_3.py](files/dna_motifs_3.py) -- very simple, pythonic and readble, makes use of the 
                                                                       **str.startswith(string)** function
                                                                       
-[**Consensus and Profile**](http://rosalind.info/problems/cons/) -- [consensus_and_profile.py](files/consensus_and_profile.py) -- Was reminded that strings can be accessed as arrays in this one.                                                                  
+[**Consensus and Profile**](http://rosalind.info/problems/cons/) -- [consensus_and_profile.py](files/consensus_and_profile.py) -- Was reminded that strings can be accessed as arrays in this one, as well as encountering accidental overwriting of duplicated arrays. CANNOT use \[\[0]\*2]\*2 to make a 2d array, must use \[\[0]\*2 for i in range(2)]                                                            
