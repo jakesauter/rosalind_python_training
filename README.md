@@ -39,4 +39,4 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 [**Finding a Shared Motif**](http://rosalind.info/problems/lcsm/) -- [finding_a_shared_motif.py](files/finding_a_shared_motif.py) -- A simple and inefficient program to find the longest common subsequence by searching through all possible combinations                                                 
 [finding_a_shared_motif_2.py](files/finding_a_shared_motif_2.py) -- A much smarter implementation to find the largest commmon subsequences of an array of sequences, this method uses **binary search** to search the possible sizes for the largest possible subsequence shared by the list 
 
-<img src="files/time_diff.png" alt="drawing" width="500"/>
+<img src="files/time_diff.png" alt="drawing" width="1000"/>
