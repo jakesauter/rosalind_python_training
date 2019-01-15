@@ -31,3 +31,5 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 [**Mortal Fibbonacci Rabbits**](http://rosalind.info/problems/fibd/) -- 
                             [mortal_fib_rabbits.py](files/mortal_fib_rabbits.py) -- A simple solution independently tracking the amount of baby rabbit pairs or "little" rabbits and mature rabbits pairs or "big" rabbits                                                                                                                  
                                        [mortal_fib_rabbits_2.py](files/mortal_fib_rabbits_2.py) -- A less straightforward but more efficient solution in which an array tracks the ages of each pair of rabbits, with the total number of living rabbits being the sum of the array elements.
+
+[**Overlap Graphs**](http://rosalind.info/problems/grph/) -- [overlap_graphs.py](files/overlap_graphs.py) -- A brief refresher on graphs while being an introduction to me about the bioinformatics topic of **overlap graphs*
