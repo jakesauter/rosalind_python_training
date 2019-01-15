@@ -37,6 +37,6 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 [**Calculating Expected Offspring**](http://rosalind.info/problems/iev) -- [calculating_expected_offspring.py](files/calculating_expected_offspring.py) -- a short and simple program but features the smart use of mapping the list of number of genotype parents to a list of probabilities of those parents having a phenotype dominant child using the **zip** function
 
 [**Finding a Shared Motif**](http://rosalind.info/problems/lcsm/) -- [finding_a_shared_motif.py](files/finding_a_shared_motif.py) -- A simple and inefficient program to find the longest common subsequence by searching through all possible combinations                                                 
-[finding_a_shared_motif_2.py](files/finding_a_shared_motif_2.py) -- A much smarter implementation to find the largest commmon subsequences of an array of sequences, this method uses **binary search** to search the possible sizes for the largest possible subsequence shared by the list 
+[finding_a_shared_motif_2.py](files/finding_a_shared_motif_2.py) -- A much smarter implementation to find the largest commmon subsequences of an array of sequences, this method uses **binary search** to search the possible sizes for the largest possible subsequence shared by the list. Difference in run time can be seen below, with the first implementation taking 1min 10s and the second implementation taking 0min .5s
 
 <img src="files/time_diff.png" alt="drawing" width="1000"/>
