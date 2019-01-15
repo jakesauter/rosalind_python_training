@@ -16,7 +16,7 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 
 [**Mendel's First Law**](http://rosalind.info/problems/iprb/) -- [mendels_first_law_2.py](files/mendels_first_law_2.py) -- allowed me to get reaquanited with combinatorics
 
-[**Translating RNA into Protein**](http://rosalind.info/problems/prot/) -- [rna_to_protein_2.py](files/rna_to_protein_2.py) -- features use of the zip command as well as using it to form key-value pairs to intialize a dictionary
+[**Translating RNA into Protein**](http://rosalind.info/problems/prot/) -- [rna_to_protein_2.py](files/rna_to_protein_2.py) -- features use of the **zip** command as well as using it to form key-value pairs to intialize a dictionary
 
 [**Finding a Motif in DNA**](http://rosalind.info/problems/subs/) -- 
                           [dna_motifs.py](files/dna_motifs.py) -- features the use of regular expressions including 
