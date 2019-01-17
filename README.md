@@ -40,3 +40,5 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 [finding_a_shared_motif_2.py](files/finding_a_shared_motif_2.py) -- A much smarter implementation to find the largest commmon subsequences of an array of sequences, this method uses **binary search** to search the possible sizes for the largest possible subsequence shared by the list. Difference in run time can be seen below, with the first implementation taking 1min 10s and the second implementation taking 0min .5s
 
 <img src="files/time_diff.png" alt="drawing" width="1000"/>
+
+[**Mendels Second Law**](http://rosalind.info/problems/lia/) -- [mendels_second_law.py](files/mendels_second_law.py) -- I must honestly say this one stumped me for a while. After playing around with the probabilities I ended up on something that looked very familair as it was the binomial distribution! This program features the use of the **scipy** library for combinations, and a comment in the program shows how I could use the binomial CDF from the scipy library 
