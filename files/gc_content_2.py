@@ -5,7 +5,6 @@ raw = dnafile.read()
 d = {}
 
 for block in raw.split(">")[1:]:
-
     parts = block.split("\n")
     name = parts[0]
     seq = ''.join(parts[1:])
