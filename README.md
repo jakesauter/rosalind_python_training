@@ -26,7 +26,7 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
                           [dna_motifs_3.py](files/dna_motifs_3.py) -- very simple, pythonic and readble, makes use of the 
                                                                       **str.startswith(string)** function
                                                                       
-[**Consensus and Profile**](http://rosalind.info/problems/cons/) -- [consensus_and_profile.py](files/consensus_and_profile.py) -- Was reminded that strings can be accessed as arrays in this one, as well as encountering accidental overwriting of duplicated arrays. CANNOT use \[\[0]\*ncol]\*nrow to make a 2d array, must use \[\[0]\*ncol for i in range(nrow)]            
+[**Consensus and Profile**](http://rosalind.info/problems/cons/) -- [consensus_and_profile.py](files/consensus_and_profile.py) -- Was reminded that strings can be accessed as arrays in this one, as well as encountering accidental overwriting of duplicated arrays. CANNOT use \[\[0]\*ncol]\*nrow to make a 2d array, must use \[\[0]\*ncol for i in range(nrow)]      
 
 [**Mortal Fibbonacci Rabbits**](http://rosalind.info/problems/fibd/) -- 
                             [mortal_fib_rabbits.py](files/mortal_fib_rabbits.py) -- A simple solution independently tracking the amount of baby rabbit pairs or "little" rabbits and mature rabbits pairs or "big" rabbits                                                                                                                  
@@ -42,3 +42,5 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
 <img src="files/time_diff.png" alt="drawing" width="1000"/>
 
 [**Mendels Second Law**](http://rosalind.info/problems/lia/) -- [mendels_second_law.py](files/mendels_second_law.py) -- I must honestly say this one stumped me for a while. After playing around with the probabilities I ended up on something that looked very familair as it was the binomial distribution! This program features the use of the **scipy** library for combinations, and a comment in the program shows how I could use the binomial CDF from the scipy library 
+
+[**Finding a Protien Motif**](http://rosalind.info/problems/mprt/) -- [finding_a_protein_motif.py](files/finding_a_protein_motif.py) -- A helpful introduction into the protein database **UniProt** "which provides detailed protein annotation, including function description, domain structure, and post-translational modifications. UniProt also supports protein similarity search, taxonomy analysis, and literature citations.". This program also features the use of **urllib** to access the protein FASTA through Uniprot.
