@@ -1,5 +1,3 @@
-import re
-
 """
 First we will need the rna to protein translation
 table
