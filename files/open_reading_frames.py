@@ -29,7 +29,6 @@ table can be used
 
 string = string.replace('T', 'U')
 
-
 """
 We will have to search for start-stop codon encapsulated
 chunks of this original string and the compliment of the
