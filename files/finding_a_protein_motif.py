@@ -31,7 +31,7 @@ for prot_name in protein_list:
     
     indices = [m.start()+1 for m in re.finditer('(?=N[^P][S|T][^P])', data)]
     
-    if indices != []: 
+        if indices != []: 
     
         print(prot_name + "\n" + ' '.join([str(x) for x in indices]))
 
