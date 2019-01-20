@@ -1,5 +1,3 @@
-import re
-
 """
 We must first begin by taking in the FASTA formated
 sequence followed by the identified introns
