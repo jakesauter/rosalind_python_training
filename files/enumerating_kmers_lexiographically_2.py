@@ -11,7 +11,6 @@ k_mer = ['']
 
 for l in range(length):
     k_mer =  [i+j for i in alphabet for j in k_mer]
-    print(k_mer)
 
 for i in k_mer: 
     print(i)
