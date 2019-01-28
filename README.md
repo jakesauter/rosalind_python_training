@@ -61,3 +61,8 @@ Using the rosalind.info site for bioinformatic programming to sharpen my python 
                                       [enumerating_kmers_lexiographically_2.py](files/enumerating_kmers_lexiographically_2.py) -- A more intersting solution using core python and making use of a **double list comprehension**, inspired by a soltuion found in the solutions wiki of the problem.
                                       
 [**Longest Increasing Subsequence**](http://rosalind.info/problems/lgis/) -- This problem has been giving me a lot of trouble, though I was able to find the book [An introduction to bioinformatics algorithms](http://bioinformaticsinstitute.ru/sites/default/files/an_introduction_to_bioinformatics_algorithms_-_jones_pevzner.pdf) that the problem citation referenced and am giving it a read for more help
+
+## Reading Break
+
+I have decidied that it would be better to take some time to refresh on algorithmic concepts and have a more established introduction to how some algorithms are specifically applied to bioinformatics problems than to attempt to ad-hoc solutions that may not be optimal now that the problems are begining to become a bit harder and less in the "learning how to use python effectivley" stage. I will be taking a break from posting to this repository for a short while, while I am reading Neil C. Jones' and Pavel A. Pevzner's **An Introduction to Bioinformatics Algorithms**
+In
